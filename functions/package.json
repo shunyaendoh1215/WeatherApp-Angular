@@ -22,5 +22,7 @@
     "typescript": "^3.2.2",
     "firebase-functions-test": "^0.1.6"
   },
+  "twitter": "^1.7.1",
+  "dotenv": "^7.0.0",
   "private": true
 }
