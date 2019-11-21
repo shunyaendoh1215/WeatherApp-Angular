@@ -1,8 +1,11 @@
+  
+import {Injectable} from '@angular/core';
+import {BehaviorSubject} from 'rxjs';
 
-import { Injectable } from '@angular/core';
-import { BehaviorSubject } from 'rxjs';
 
-@Injectable()
+@Injectable({
+  providedIn: 'root'
+})
 export class UiService {
 
   darkModeState: BehaviorSubject<boolean>;
