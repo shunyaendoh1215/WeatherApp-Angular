@@ -24,7 +24,7 @@
     "@angular/service-worker": "~8.1.1",
     "@firebase/app": "^0.4.24",
     "@firebase/app-types": "^0.4.7",
-    "@firebase/util": "^0.2.33",
+    "@firebase/util": "^0.3.4",
     "angularfire-lite": "^6.0.3",
     "firebase": "^7.4.0",
     "rxjs": "~6.4.0",
